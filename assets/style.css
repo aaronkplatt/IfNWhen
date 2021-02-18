@@ -1,0 +1,28 @@
+/* Background Color */
+body {
+    /* background-color: black; */
+}
+
+/* Container */
+.container-fluid {
+    padding: 0;
+}
+
+/* NAV BAR */
+.navbar-brand {
+    font-size: 50px;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    width: 100%;
+    bottom: 0px;
+    border-top: 10px solid gray;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    position: fixed;
+    background-color: white;
+    color: black;
+    margin-top: 0;
+}
